@@ -1,0 +1,4 @@
+[submodule "deathchronblog/public"]
+	path = deathchronblog/public
+	url = https://github.com/DeathChron/DeathChron.github.io.git
+	branch = main
